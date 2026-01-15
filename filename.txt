@@ -1,0 +1,5 @@
+account number,sbi1234
+upi pin,464263
+ifsc code,123456789
+email,squad@gmail.com
+account number,ofnonf-0r983048
