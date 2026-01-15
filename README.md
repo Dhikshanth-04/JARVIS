@@ -91,3 +91,65 @@ This project focuses on **practical AI + system automation + hardware control**,
 
 ## 🏗️ Project Architecture (High Level)
 
+Voice Input
+↓
+Speech Recognition
+↓
+Command Processing
+↓
+├── System Operations
+├── File Security Module
+├── Web Operations
+└── Hardware Control Module
+---
+
+## ▶️ How to Run
+
+
+📌 Make sure microphone access is enabled.
+
+🎯 Use Cases
+Personal AI desktop assistant
+
+Secure file management
+
+Voice-controlled system automation
+
+Low-cost home electrical control
+
+AI + hardware integration learning project
+
+📚 Learning Outcomes
+Voice-based AI interaction
+
+Python system automation
+
+GUI development using Tkinter
+
+Hardware control without IoT dependency
+
+Secure access logic using voice confirmation
+
+Real-world problem solving
+
+🚧 Future Enhancements
+Advanced voice authentication
+
+Multi-language support
+
+Mobile companion app
+
+AI model integration
+
+Enhanced hardware scalability
+
+🧑‍💻 Developer Note
+This project was built to explore the intersection of AI, system security, and real-world hardware control, focusing on affordable automation without relying on smart devices.
+
+⭐ Final Note
+If you find this project interesting, feel free to explore the code and ideas behind it.
+This project represents innovation beyond conventional AI assistants.
+
+🧠 “The future of AI is not just smart — it’s accessible.”
+
+Say the word, Iron Man 😏🔥
